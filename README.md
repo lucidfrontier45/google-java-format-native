@@ -34,7 +34,7 @@ You need to install [GraalVM](https://www.graalvm.org/) and its [Native Image](h
 # Linux
 ./build.sh google-java-format-<version>-all-deps.jar
 
-# Windows, must be ran from x64 Native Tools Command Prompt
+# Windows, must be run from x64 Native Tools Command Prompt
 build.cmd google-java-format-<version>-all-deps.jar
 ```
 
